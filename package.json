@@ -1,0 +1,19 @@
+{
+  "name": "welcomeapi",
+  "version": "0.1.0",
+  "description": "Welcome API is first home work project for courses on Node.js by pirple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dummy",
+    "practice"
+  ],
+  "author": "Mozzart",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-google": "^0.10.0"
+  }
+}
